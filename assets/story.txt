@@ -1,0 +1,19 @@
+|h| *Ring* *Ring*
+|h| Hey, Hey! If it isn't our greatest driver?
+|p| What do you want?
+|h| That was rude... But, never mind...
+|p| I'm on hollyday, I have every right to be rude.
+|h| Alright... But we need you at the testing track.
+|p| Ughhhh! Which one?
+|h| ... We've got like four of them...
+|h| Get here, and I'll find you.
+|m| Finally I've found you.
+|p| Jesus Christ, you look like a mess!
+|m| ... Nice to see you too...
+|m| We need to test the new shift box.
+|p| Wait... I tested one two weeks ago!
+|m| Yeah... But that one didn't work with new motor.
+|p| ...
+|m| Just get in that Goddamned car and do five laps...
+|p| Your wish is my command...
+|m| ...SHUT UP!
